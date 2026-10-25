@@ -10,5 +10,5 @@ spec:
     type: raw
     path: app1
   sync:
-    interval: 60s
+    interval: 1s
   prune: false
