@@ -4,7 +4,7 @@ metadata:
   name: test-app
   namespace: nanocd-system
 spec:
-  repo: https://github.com/onora-hbl/nano-cd-test
+  repo: https://ithub.com/onora-hbl/nano-cd-test
   branch: main
   source:
     type: raw
