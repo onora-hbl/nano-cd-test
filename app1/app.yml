@@ -6,7 +6,7 @@ metadata:
     app: hello
   namespace: nanocd-test
 spec:
-  replicas: -1
+  replicas: 1
   selector:
     matchLabels:
       app: hello
